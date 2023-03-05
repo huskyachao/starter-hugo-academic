@@ -43,7 +43,7 @@ summary: In this paper, we present Wavoice, the first noise-resistant multi-moda
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
