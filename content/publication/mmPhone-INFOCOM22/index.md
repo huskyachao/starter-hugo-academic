@@ -1,5 +1,5 @@
 ---
-title: 'mmPhone-INFOCOM 2022'
+title: "(INFOCOM'22) mmPhone: Acoustic Eavesdropping on Loudspeakers via mmwave-characterized Piezoelectric Effect"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -33,8 +33,8 @@ publishDate: '2022-06-20T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Conference on Computer Communications*
-publication_short: In **IEEE INFOCOM'22**
+publication: In *IEEE Conference on Computer Communications 2022*
+publication_short: ""
 
 abstract: More and more people turn to online voice communication with loudspeaker-equipped devices due to its convenience. To prevent speech leakage, soundproof rooms are often adopted. This paper presents mmPhone, a novel acoustic eavesdropping system that recovers loudspeaker speech protected by soundproof environments. The key idea is that properties of piezoelectric films in mmWave band can change with sound pressure due to the piezoelectric effect. If the property changes are acquired by an adversary (i.e., characterizing the piezoelectric effect with mmWaves), speech leakage can happen. More importantly, the piezoelectric film can work without a power supply. Base on this, we proposed a methodology using mmWaves to sense the film and decoding the speech from mmWaves, which turns the film into a passive "microphone". To recover intelligible speech, we further develop an enhancement scheme based on a denoising neural network, multi-channel augmentation, and speech synthesis, to compensate for the propagation and penetration loss of mmWaves. We perform extensive experiments to evaluate mmPhone and conduct digit recognition with over 93% accuracy. The results indicate mmPhone can recover high-quality and intelligible speech from a distance over 5m and is resilient to incident angles of sound waves (within 55 degrees) and different types of loudspeakers.
 
@@ -63,7 +63,7 @@ url_video: 'https://youtu.be/AIh0l00qxP4'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
@@ -83,7 +83,7 @@ image:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -91,4 +91,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

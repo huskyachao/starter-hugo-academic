@@ -1,5 +1,5 @@
 ---
-title: 'mmEve-MobiCom 2022'
+title: "(MobiCom'22) mmEve: Eavesdropping on Smartphone's Earpiece via COTS mmWave Device"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -34,7 +34,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 28th Annual International Conference on Mobile Computing And Networking*
-publication_short: In **ACM MobiCom'22**
+publication_short: ""
 
 abstract: Earpiece mode of smartphones is often used for confidential communication. In this paper, we proposed a remote(>2m) and motion-resilient attack on smartphone earpiece. We developed an end-to-end eavesdropping system mmEve based on a commercial mmWave sensor to recover speech emitted from smartphone earpiece. The rationale of the attack is based on our observation that, soundwaves emitted from the smartphone's earpiece have a strong correlation with reflected mmWaves from the smartphone's rear. However, we find the recovered speech suffers from the sensor's self-noise and smartphone user's motion which limit attack distance to less than 2m, causing limited threats in real world. We modeled the motion interference under mmWave sensing and proposed a motion-resilient solution by optimizing the fitting function on I/Q plane. To achieve a practical attack with reasonable attack distance, we developed a GAN-based denoising scheme to eliminate the noise pattern of the sensor, which boosted the attack range to 6--8m. We evaluated mmEve with extensive experiments and find 23 different models of smartphones manufactured by Samsung, Huawei, etc. can be compromised by the proposed attack.
 
@@ -63,9 +63,11 @@ url_video: 'https://youtu.be/_FUz6TE_5yM'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  placement: 1 # change the display size of the image (value: 1/2/3)
+  caption: "Image credit: Chao Wang" #[**Chao Wang**](https://unsplash.com/photos/pLCdAaMFLTE)
+  focal_point: 'Center' # chnange the center of the resized image
   preview_only: false
+  alt_text: 
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -84,7 +86,7 @@ slides: ""
 
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -92,4 +94,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
