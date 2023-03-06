@@ -9,7 +9,7 @@ date: '2021-12-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'Image credit: Chao Wang'
   focal_point: Smart
 
 # links:

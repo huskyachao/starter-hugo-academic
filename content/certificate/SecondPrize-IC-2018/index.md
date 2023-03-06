@@ -1,5 +1,5 @@
 ---
-title: 'Second Prize of National College Students Integrated Circuit Innovation Competition (East-China Division)'
+title: 'The Second Prize of National College Students Integrated Circuit Innovation Competition (East-China Division)'
 summary: Ministry of Industry and Information Technology (MIIT) of China
 tags:
   - ''
@@ -9,7 +9,7 @@ date: '2019-08-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by Chao Wang
+  caption: 'Image credit: Chao Wang'
   focal_point: Smart
 
 # links:

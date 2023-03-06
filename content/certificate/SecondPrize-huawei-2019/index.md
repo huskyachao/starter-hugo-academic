@@ -1,5 +1,5 @@
 ---
-title: 'Huawei Integrated Circuit Innovation Competition'
+title: 'The Second Prize of Huawei Integrated Circuit Innovation Competition'
 summary: Huawei
 tags:
   - ''
@@ -9,7 +9,7 @@ date: '2019-08-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by Chao Wang
+  caption: 'Image credit: Chao Wang'
   focal_point: Smart
 
 # links:

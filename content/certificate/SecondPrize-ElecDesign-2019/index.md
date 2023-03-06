@@ -1,5 +1,5 @@
 ---
-title: Second-Prize Winner of The 24th Undergraduate Electronics Design Contest
+title: The Second Prize Winner of The 24th Undergraduate Electronics Design Contest
 summary: Zhejiang University
 tags:
   - ''
@@ -9,7 +9,7 @@ date: '2019-06-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'Image credit: Chao Wang'
   focal_point: Smart
 
 # links:

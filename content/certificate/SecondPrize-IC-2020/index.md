@@ -1,6 +1,6 @@
 ---
-title: Second-Prize Winner of National Integrated Circuit Innovation Competition
-summary: ''
+title: The Second Prize Winner of National Integrated Circuit Innovation Competition
+summary: Ministry of Education of the People's Republic of China
 tags:
   - Selected
 date: '2020-10-01T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2020-10-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'Image credit: Chao Wang'
   focal_point: Smart
 
 # links:

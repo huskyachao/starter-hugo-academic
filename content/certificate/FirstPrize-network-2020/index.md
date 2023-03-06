@@ -1,5 +1,5 @@
 ---
-title: 'First-Prize Winner of National Network Technology Challenge in Computer Competition'
+title: "The First Prize Winner of National Network Technology Challenge in Computer Competition"
 summary: <font color="#dd0000">[Top 1.0%, 7 out of 686]</font><br/>
 tags:
   - Selected
@@ -9,7 +9,7 @@ date: '2020-10-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'Image credit: Chao Wang'
   focal_point: Smart
 
 # links:
