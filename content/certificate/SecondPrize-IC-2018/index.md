@@ -1,5 +1,5 @@
 ---
-title: 'The Second Prize of National College Students Integrated Circuit Innovation Competition (East-China Division)'
+title: 'Second Prize of National College Students Integrated Circuit Innovation Competition (East-China Division)'
 summary: Ministry of Industry and Information Technology (MIIT) of China
 tags:
   - ''

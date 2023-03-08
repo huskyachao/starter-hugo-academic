@@ -1,5 +1,5 @@
 ---
-title: The Second Prize Winner of The 24th Undergraduate Electronics Design Contest
+title: Second Prize Winner of The 24th Undergraduate Electronics Design Contest
 summary: Zhejiang University
 tags:
   - ''

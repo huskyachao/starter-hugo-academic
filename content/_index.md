@@ -174,9 +174,9 @@ sections:
       columns: '1'
       view: showcase
       flip_alt_rows: false
-      # spacing:
+      spacing:
       #   # Customize the section spacing. Order is top, right, bottom, left.
-      #   padding: ["20px", "0", "20px", "0"]
+        padding: ["40px", "0px", "40px", "0px"]
 
   - block: collection
     content:
@@ -192,6 +192,9 @@ sections:
     design:
       columns: '1'
       view: list
+      spacing:
+      #   # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["40px", "0px", "40px", "0px"]
 
   - block: collection
     content:
@@ -202,6 +205,9 @@ sections:
     design:
       columns: '1'
       view: citation
+      spacing:
+      #   # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["40px", "0px", "40px", "0px"]
 
   - block: portfolio
     id: awards
@@ -232,6 +238,9 @@ sections:
       view: 3
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false  
+      spacing:
+      #   # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["40px", "0px", "40px", "0px"]
 
   - block: markdown
     content:
@@ -241,9 +250,12 @@ sections:
         ### Software 
         - Machine Leanring (Python), Signal Processing (MATLAB), Writing (LaTex)
         ### Hardware
-        - PCB Designer (Altium Designer/KiCAD), FPGA (Verilog)
+        - PCB Design (Altium Designer/KiCAD), FPGA (Verilog)
     design:
       columns: '2'
+      spacing:
+      #   # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["40px", "0px", "40px", "0px"]
 
   - block: markdown
     content:
@@ -256,6 +268,9 @@ sections:
         - IEEE Transactions on Services Computing 2022 
     design:
       columns: '2'
+      spacing:
+      #   # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["40px", "0px", "40px", "0px"]
 
   # - block: accomplishments
   #   id: awards
@@ -400,4 +415,7 @@ sections:
       #     captcha: false
     design:
       columns: '2'
+      spacing:
+      #   # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["40px", "0px", "40px", "0px"]
 ---

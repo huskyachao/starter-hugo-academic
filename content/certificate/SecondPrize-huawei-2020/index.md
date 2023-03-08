@@ -1,5 +1,5 @@
 ---
-title: 'The Second Prize of Huawei Integrated Circuit Innovation Competition'
+title: 'Second Prize of Huawei Integrated Circuit Innovation Competition'
 summary: Huawei
 tags:
   - ''

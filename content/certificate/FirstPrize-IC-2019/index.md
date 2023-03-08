@@ -1,6 +1,6 @@
 ---
-title: 'The First Prize Winner of National Integrated Circuit Innovation Competition'
-summary: <font color="#dd0000">[Top 3.2%, 15 out of 468]</font><br/> 
+title: 'First Prize Winner of National Integrated Circuit Innovation Competition'
+summary: <font color="#dd0000" size=5> **[Top 3.2%, 15 out of 468]**</font><br/>
 tags:
   - Selected
 date: '2019-08-01T00:00:00Z'

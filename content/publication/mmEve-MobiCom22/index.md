@@ -67,7 +67,7 @@ image:
   caption: "Image credit: Chao Wang" #[**Chao Wang**](https://unsplash.com/photos/pLCdAaMFLTE)
   focal_point: 'Center' # chnange the center of the resized image
   preview_only: false
-  alt_text: 
+  alt_text: ''
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

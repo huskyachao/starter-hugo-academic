@@ -1,6 +1,6 @@
 ---
-title: "The First Prize Winner of National Network Technology Challenge in Computer Competition"
-summary: <font color="#dd0000">[Top 1.0%, 7 out of 686]</font><br/>
+title: "First Prize Winner of National Network Technology Challenge in Computer Competition"
+summary: <font color="#dd0000" size=5>**[Top 1.0%, 7 out of 686]**</font><br/>
 tags:
   - Selected
 date: '2020-10-01T00:00:00Z'
