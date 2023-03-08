@@ -193,6 +193,16 @@ sections:
       columns: '1'
       view: list
 
+  - block: collection
+    content:
+      title: Granted Patents
+      filters:
+        folders:
+          - patents
+    design:
+      columns: '1'
+      view: citation
+
   - block: portfolio
     id: awards
     content:
@@ -222,7 +232,31 @@ sections:
       view: 3
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false  
-      
+
+  - block: markdown
+    content:
+      title: Skills
+      subtitle: ''
+      text: |-
+        ### Software 
+        - Machine Leanring (Python), Signal Processing (MATLAB), Writing (LaTex)
+        ### Hardware
+        - PCB Designer (Altium Designer/KiCAD), FPGA (Verilog)
+    design:
+      columns: '2'
+
+  - block: markdown
+    content:
+      title: Professional Services
+      subtitle: ''
+      text: |-
+        ### Shadow PC Committee 
+        - ACM SenSys 2022
+        ### Reviewer
+        - IEEE Transactions on Services Computing 2022 
+    design:
+      columns: '2'
+
   # - block: accomplishments
   #   id: awards
   #   content:
