@@ -1,9 +1,9 @@
 ---
-title: Second Prize Winner of National Integrated Circuit Innovation Competition
-summary: Ministry of Education, PRC
+title: Outstanding Graduate Student of the Year 
+summary: 2021-2022, Zhejiang University
 tags:
-  - ''
-date: '2020-10-01T00:00:00Z'
+  - Selected
+date: '2022-12-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -3,7 +3,7 @@ title: Outstanding Graduate Student of the Year
 summary: 2020-2021, Zhejiang University
 tags:
   - Selected
-date: '2021-12-01T00:00:00Z'
+date: '2021-12-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
