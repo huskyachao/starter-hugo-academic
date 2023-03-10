@@ -58,7 +58,9 @@ url_pdf: ''
 # url_project: ''
 url_slides: 'https://huskyachao.github.io/slides/mmPhone-presentation.pdf'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtu.be/AIh0l00qxP4'
+# url_video: 'https://youtu.be/AIh0l00qxP4'
+url_video: 'https://youtu.be/5eN6e3_yzjc'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

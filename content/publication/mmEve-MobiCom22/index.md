@@ -58,7 +58,8 @@ url_pdf: ''
 # url_project: ''
 url_slides: 'https://huskyachao.github.io/slides/mmEve-presentation.pdf'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtu.be/_FUz6TE_5yM'
+# url_video: 'https://youtu.be/_FUz6TE_5yM'
+url_video: 'https://youtu.be/OLUg1OVgqqk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
