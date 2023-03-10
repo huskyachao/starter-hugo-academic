@@ -47,9 +47,15 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - icon_pack: fab
+    icon: youtube
+    name: Demo
+    url: https://youtu.be/5eN6e3_yzjc
+  - icon_pack: fab
+    icon: youtube
+    name: Presentation
+    url: https://youtu.be/AIh0l00qxP4
 
 url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
@@ -59,7 +65,7 @@ url_pdf: ''
 url_slides: 'https://huskyachao.github.io/slides/mmPhone-presentation.pdf'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtu.be/AIh0l00qxP4'
-url_video: 'https://youtu.be/5eN6e3_yzjc'
+# url_video: 'https://youtu.be/5eN6e3_yzjc'
 
 
 # Featured image

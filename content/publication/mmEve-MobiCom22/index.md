@@ -51,15 +51,24 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+links:
+  - icon_pack: fab
+    icon: youtube
+    name: Intro-video
+    url: https://youtu.be/OLUg1OVgqqk
+  - icon_pack: fab
+    icon: youtube
+    name: Presentation
+    url: https://youtu.be/_FUz6TE_5yM
+
+# url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
 url_slides: 'https://huskyachao.github.io/slides/mmEve-presentation.pdf'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_video: 'https://youtu.be/_FUz6TE_5yM'
-url_video: 'https://youtu.be/OLUg1OVgqqk'
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
