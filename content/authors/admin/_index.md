@@ -78,5 +78,5 @@ email: 'wangchao5001@zju.edu.cn'
 highlight_name: true
 ---
 
-Chao Wang is currently a fourth-year PhD. Candidate in the College of Computer Science and Technology, Zhejiang University. His supervisor is Prof. [Feng Lin](https://flin.group/). His research interests include Wireless Sensing, Machine/Deep Learning, and IoT Security. He received his B.E. degree from the College of Information Science and Electronic Engineering at Zhejiang University in 2019.
+Chao Wang is currently a fourth-year PhD. Candidate in the College of Computer Science and Technology, Zhejiang University. His supervisor is Prof. [Feng Lin](https://flin.group/). His research interests include Wireless Sensing, Machine/Deep Learning, and Mobile Computing. He received his B.E. degree from the College of Information Science and Electronic Engineering at Zhejiang University in 2019.
 {style="text-align: justify;"}
