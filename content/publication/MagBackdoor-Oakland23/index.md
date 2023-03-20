@@ -1,5 +1,5 @@
 ---
-title: "(IEEE S&P'23)MagBackdoor: Beware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection"
+title: "(IEEE S&P'23) MagBackdoor: Beware of Your Loudspeaker as Backdoor of Magnetic Attack for Malicious Command Injection"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
