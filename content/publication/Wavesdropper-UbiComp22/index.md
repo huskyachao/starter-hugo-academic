@@ -36,7 +36,8 @@ publication_short: ""
 abstract: Most existing eavesdropping attacks leverage propagating sound waves for speech retrieval. However, soundproof materials are widely deployed in speech-sensitive scenes (e.g., a meeting room). In this paper, we reveal that human speech protected by an isolated room can be compromised by portable and commercial off-the-shelf mmWave devices. To achieve this goal, we develop Wavesdropper, a word detection system that utilizes a mmWave probe to sense the targeted speaker's throat vibration and recover speech contents in the obstructed condition. We proposed a CEEMD-based method to suppress dynamic clutters (e.g., human movements) in the room and a wavelet-based processing method to extract the delicate vocal vibration information from the hybrid signals. To recover speech contents from mmWave signals related to the vocal vibration, we designed a neural network to infer the speech contents. Moreover, we explored word detection on a conversation with multiple (two) probes and reveal that the adversary can detect words on multiple people simultaneously with only one mmWave device. We performed extensive experiments to evaluate the system performance with over 60,000 pronunciations. The experimental results indicate that Wavesdropper can achieve 91.3% accuracy for 57-word recognition on 23 volunteers.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we reveal that human speech protected by an isolated room can be compromised by portable and commercial mmWave devices. 
+summary: Chao Wang, Feng Lin, Zhongjie Ba, Fan Zhang, Wenyao Xu, and Kui Ren.
+# In this paper, we reveal that human speech protected by an isolated room can be compromised by portable and commercial mmWave devices. 
 
 tags: []
 

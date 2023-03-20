@@ -39,7 +39,8 @@ publication_short: ""
 abstract: Earpiece mode of smartphones is often used for confidential communication. In this paper, we proposed a remote(>2m) and motion-resilient attack on smartphone earpiece. We developed an end-to-end eavesdropping system mmEve based on a commercial mmWave sensor to recover speech emitted from smartphone earpiece. The rationale of the attack is based on our observation that, soundwaves emitted from the smartphone's earpiece have a strong correlation with reflected mmWaves from the smartphone's rear. However, we find the recovered speech suffers from the sensor's self-noise and smartphone user's motion which limit attack distance to less than 2m, causing limited threats in real world. We modeled the motion interference under mmWave sensing and proposed a motion-resilient solution by optimizing the fitting function on I/Q plane. To achieve a practical attack with reasonable attack distance, we developed a GAN-based denoising scheme to eliminate the noise pattern of the sensor, which boosted the attack range to 6--8m. We evaluated mmEve with extensive experiments and find 23 different models of smartphones manufactured by Samsung, Huawei, etc. can be compromised by the proposed attack.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we proposed a remote(>2m) and motion-resilient attack on smartphone earpiece. We developed the mmEve system based on COTS mmWave sensors to recover speech emitted from smartphone earpiece.
+summary: Chao Wang, Feng Lin, Tiantian Liu, Kaidi Zheng, Zhibo Wang, Zhengxiong Li, Ming-Chun Huang, Wenyao Xu, and Kui Ren. 
+# In this paper, we proposed a remote(>2m) and motion-resilient attack on smartphone earpiece. We developed the mmEve system based on COTS mmWave sensors to recover speech emitted from smartphone earpiece.
 
 tags: []
 
@@ -77,7 +78,7 @@ image:
   caption: "Image credit: Chao Wang" #[**Chao Wang**](https://unsplash.com/photos/pLCdAaMFLTE)
   focal_point: 'Center' # chnange the center of the resized image
   preview_only: false
-  alt_text: ''
+  alt_text: 'Chao Wang'
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
