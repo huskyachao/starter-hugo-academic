@@ -247,10 +247,10 @@ sections:
       title: Skills
       subtitle: ''
       text: |-
-        ### Software 
-        - Machine Leanring (Python), Signal Processing (MATLAB), Writing (LaTex)
-        ### Hardware
-        - PCB Design (Altium Designer/KiCAD), FPGA (Verilog)
+        ### Programming 
+        - Python, MATLAB, C/C++, Lua, Verilog, LaTex
+        ### PCB Design
+        - Altium Designer, KiCAD
     design:
       columns: '2'
       spacing:
