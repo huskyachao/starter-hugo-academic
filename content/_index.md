@@ -248,7 +248,7 @@ sections:
       subtitle: ''
       text: |-
         ### Programming 
-        - Python, MATLAB, C/C++, Lua, Verilog, LaTex
+        - Python (Machine Learning), MATLAB (Signal Processing), C/C++, Verilog, Lua, LaTex
         ### PCB Design
         - Altium Designer, KiCAD
     design:
